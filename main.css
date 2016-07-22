@@ -1,0 +1,53 @@
+.contenedor { 
+	background-color: #8CB27C;
+	width: 800px;
+	height: 500px;
+}
+.h-borde{
+	border: 1.5px solid white;
+	position: relative;
+	width:  750px;
+	height: 450px;
+	margin: 0 auto;
+	top: 25px;
+}
+.h-arcoa{
+	border: 1.5px solid white;
+	position: absolute;
+	width:  100px;
+	height: 230px;
+	left: 0px;
+	top: 25%;
+}
+.h-arcob{
+	border: 1.5px solid white;
+	position: absolute;
+	width:  100px;
+	height: 230px;
+	right: 0px;
+	top: 25%;
+}
+.centro{
+	border: 1.5px solid white;
+	border-radius: 50%;
+	position: absolute;
+	width:  200px;
+	height: 200px;
+	top: 25%;
+	left: 36%;
+}
+.h-ball1{
+	position: absolute;
+	left: 91px;
+	top: 118px;
+}
+.h-ball2{
+	position: absolute;
+	left: 400px;
+	top: 60px;
+}
+.h-ball3{
+	position: absolute;
+	right: 108px;
+	bottom: 108px;
+}
